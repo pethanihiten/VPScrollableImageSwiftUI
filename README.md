@@ -42,7 +42,7 @@ Contributions are warmly welcomed! Feel free to reference the todos above or fil
 
 ## Contact
 
-[Skype](live:pethanihiten_1)
+[Skype](pethanihiten_1)
 
 ## Liscense
 
