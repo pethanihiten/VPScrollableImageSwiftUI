@@ -7,6 +7,7 @@ To implement zoom, scroll, pinch, and double-tap-to-center capabilities for an i
 
 Add the package to Xcode `https://github.com/pethanihiten/VPScrollableImageSwiftUI.git` and target the `main` branch, no officail release yet.
 
+![Demo](https://github.com/user-attachments/assets/b5645ddb-fe7d-4cd1-aa8c-f31d6b738b37)
 
 ```swift
 import VPScrollableImage
